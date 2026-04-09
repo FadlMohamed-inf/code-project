@@ -1,32 +1,37 @@
-Banking System  C Console Application
+# Banking System - C Console Application
+
 A console-based banking application simulating core bank operations, built in C.
 
-Features
+---
+
+## Features
 - Account creation
 - Deposits & withdrawals
 - Fund transfers
 - Balance consultation
 - Secure user input
 
-Technologies
+---
+
+## Technologies
 - Language: C
 - Data structures: Structs
 - Storage: File handling (.dat / .txt)
 
 ---
 
-Test Accounts
+## Test Accounts
 
 The program comes with two pre-configured accounts for testing:
 
-  Employee (Admin)
+### Employee (Admin)
 | Field    | Value        |
 |----------|--------------|
 | ID       | 1            |
 | Name     | Admin Banque |
 | Password | admin123     |
 
-  Client
+### Client
 | Field        | Value        |
 |--------------|--------------|
 | ID           | 101          |
@@ -35,11 +40,19 @@ The program comes with two pre-configured accounts for testing:
 | Bank Account | 1001         |
 | Balance      | 5000 DH      |
 
- **Note:** These accounts are pre-loaded for evaluation purposes.
+> ⚠️ **Note:** These accounts are pre-loaded for evaluation purposes.
 
+---
 
-  Concepts Applied
+## Concepts Applied
 - Procedural programming
 - Memory management
 - File I/O for data persistence
 - Struct-based data modeling
+
+---
+
+## Author
+**Fadl Mohamed**  
+Student at FSBM, Casablanca  
+fadlmohamed2006@gmail.com
