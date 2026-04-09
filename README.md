@@ -16,7 +16,7 @@ A console-based banking application simulating core bank operations, built in C.
 ## Technologies
 - Language: C
 - Data structures: Structs
-- Storage: File handling (.dat / .txt)
+
 
 ---
 
